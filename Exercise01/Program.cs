@@ -39,6 +39,7 @@ int GetVar(int i)
     return num;
 }
 
+//Создание массива пользователем + подсчёт положительных чисел
 int GetArray(int length)
 {
     int[] newArray = new int[length];
